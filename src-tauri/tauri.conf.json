@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "有道考研",
+    "productName": "youdaokaoyan",
     "version": "0.0.0"
   },
   "tauri": {
