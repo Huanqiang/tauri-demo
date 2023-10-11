@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "tauri",
+    "productName": "有道考研",
     "version": "0.0.0"
   },
   "tauri": {
@@ -31,9 +31,9 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "tauri",
-        "width": 800,
-        "height": 600
+        "title": "有道考研",
+        "width": 1200,
+        "height": 1000
       }
     ]
   }
